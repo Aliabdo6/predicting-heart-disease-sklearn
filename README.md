@@ -16,7 +16,7 @@ This project aims to introduce foundational machine learning and data science co
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## What is Classification?
 
@@ -96,8 +96,8 @@ Classification involves deciding whether a sample is part of one class or anothe
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/heart-disease-prediction.git
-    cd heart-disease-prediction
+    git clone https://github.com/Aliabdo6/predicting-heart-disease-sklearn/tree/main
+    cd predicting-heart-disease-sklearn
     ```
 
 2. Create a virtual environment and activate it:
